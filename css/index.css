@@ -227,8 +227,6 @@
     display: none;
 }
 /* end project area */
-
-/* popup image */
  .popup-image{
     position:fixed;
     top:0;left:0;
@@ -244,7 +242,7 @@
     top:0;right:10px;
     font-size:40px;
     font-weight:bolder;
-    color:#fff;
+    color:#fff; 
     cursor:pointer;
     z-index: 100;
     transition: all 0.9s;
